@@ -5,7 +5,10 @@ There is one thing you should keep in mind. Your life should fulfil you. Only yo
 If you partner or friend does not like how your are living, then maybe it's not the right partner or friend for you. And you don't have to live together at all. Just meet each other from time to time is also nice.  
 
 ## Living
+
 ### Community
+![dome](../images/dome.jpg "dome")  
+
 Living together in a community has many challenges. I think there are as many stories as there are communities and people living there.  
 If you want to live in a community you might have to make compromises. I know that I wrote about not to make them, but...
 ...if you are able to find consensus with all people in the community, then it's not really a compromise...it's consensus then. You do agree to do it.  
@@ -46,6 +49,8 @@ In the above case the consensus is to smoke in the teepee but not while there is
 To have a more detailed version just search the web for *systemic consensus*.
 
 ### Van Life
+![beach](../images/beach.jpg "beach")  
+
 This is what I am doing right now. I am living in my van now since 4.5 years. Often I am just camping in the middle of a town. You are able to drive everywhere. You may camp on every camping slot and of course, this is what I do, camp wild. The last option is illegal in most countries, but nowadays the police know about the situations of these people who do not work and have no money. They normally just tell them to leave. In my case I was asked once in three years to leave in Berlin. The police officer was there with a woman and maybe he just wanted to show her, how a good officer he is. Because I wanted to go to Denmark anyway I said, "ok", to avoid an argument.  
 Here in Portugal I had once police contact, because we were parking next to a museum, because they had free wifi, and somebody was calling the police and told them that our dogs are running around and shitting in the land of the museum and that we were taking the water from the museum.  
 Long story short...I accepted to leave and parked my van 20 meters away ;-)  
@@ -87,12 +92,14 @@ There are many places on earth were you may find nice people who do not want to 
 ### Biking, Hiking
 One day we met Gerd a man from Germany. He was with his bike and a trailer. He told us, that his tent is broken, I gave him my old military tent which I only used once at a rainbow gathering. It was not water proofed, but Gerd said that he will use this old tent as a tarp to protect my tent. He has already driven 5.000 km on his bike and he looked very happy and healthy of course.  
 
-### Squatting houses
+### Squatting houses or land 
 I have not done that yet, but a few friends told me about that.  
 You find squats to live in, in almost every larger town. Just ask some hippies or punks. Avoid asking junkies, because they might show you a squat with many challenges. Maybe they can live there, me not. But there are nice places like the Gängeviertel in Hamburg, where these people squatted five houses where they are now creating art. The town bought these houses back from the investor and gave it to the people. There you can find a No-Money-Shop, a cafe without prices, you just donate something, a discotheque and many more.  
 
 In Barcelona there is a nive squat where some artists are living. You can see a lot of paintings on the walls inside.  
 A friend of mine was there for a few days.  
+  
+![camp2](../images/camp2.jpg "camp2")  
 
 A friend told me about a squat in Lisbon, but he told me to avoid it, because it's really dirty there. As I said, it depends on the people living there.  
 
@@ -124,9 +131,11 @@ You can juggle at the traffic lights where the people have to stop and wait. The
 If you like painting, this is for you. You can create the paintings at home or you can do it life at the spot where you are selling them. It makes sense to combine it.  
 Selling paintings is a time consuming job, but you are able to get to know some nice people doing it. You also may show your paintings somewhere else like a pub, a shop or somewhere else.  
 
-### Washing cars
+### Washing cars  
 In n I have seen some people from Bulgaria who helped people to find a parking lot. Some people are happy and give coins. You can also offer to clean their cars while they are going shopping or doing what ever they are doing.  
-One of these guys ask me to remove a graffiti on my van. He had a strong liquid like turpentine or so. He erased all the graffiti on the front of my car. He was not asking for money, but I gave him the rest of the whiskey from the night before.
+One of these guys ask me to remove a graffiti on my van. He had a strong liquid like turpentine or so. He erased all the graffiti on the front of my car. He was not asking for money, but I gave him the rest of the whiskey from the night before.  
+So now I was able to create a new painting.  
+![van](../images/van.jpg "van")  
   
 ### Dog or cat sitting
 There a many people having animals which have to stay alone at home. Print some flyers where you offer your help and spread them at a supermarket. The people will be very happy to have someone looking after their dogs and cats.  
@@ -168,8 +177,18 @@ To be honest, this book helped me once. Because I wanted to write an app for And
 You can also connect to some other authors and help each other writing recessions to make your book more famous to reach more people.  
 You are worth to collect money for your book, because you took your time to write it, while other people were going to work an make money.  
 Keep that in mind.
-  
-# Saving money
+ 
+### CrowdFunding
+If you need money for a project, then crowdfunding is a good method to not only collect money, but also to attract new customers.  
+It is also good to see, if there is resonance for your project at all. If there is nobody interested into your idea, then you should focus on something else.  
+
+I have started already at least four campaigns. One of them was successful. Someone has stolen my mobile phone in Madrid and I wanted to blog about my journey and therefore I needed a camera, a computer to use Facebook, WhatsApp and Telegram.  
+In short, I needed a mobile phone.  
+I created a campaign on Facebook, asking for 80,- €, shared this to all of my contacts and I have collected 120,- €.  
+
+Thanks to all my supporters.
+
+## Saving money
 ### Food Saving  
 Do you know that we are throwing away a third part of the whole food on this planet?  
 If you are able to get your hands on this food you might also share it with other people, which is a very nice act of socializing. Sharing is caring.  
@@ -201,6 +220,8 @@ This day I have invented **White Coffee**. To be honest, the name comes from a g
 Now that another friend sent me the message, that we should drink hot water on a regular base to brink down the corona virus into the stomach to kill it, I am drinking White Coffee on a regular base, instead of expensive coffee.  
 
 ### Saving Coffee
+![coffee](../images/coffee.jpg "coffee")  
+
 To get some coffee beans I ask at a cafe or a gas station, if they have got a hand full off coffee beans for me. And I get it almost every time. For free of course.
 
 ### Saving Diesel
@@ -222,6 +243,14 @@ If you see an abondonend shop, ask the owner if you may use the shop to make a w
 
 ### Finding cheap spots to eat
 Look for restaurants without tourism. The restaurant next to the beach are sooo expensive compared to these restaurant which are for the local people. Ask a local for these restaurants and maybe you might also get an invitation for a dinner. All people on this planet are nice and want to help. You only know about bad people from these movies. And of course there are bad guys who try to copy these bad guys from the movies, but deep in their hearts they are nice, like you are.  
+
+### Cook your own food
+![candle](../images/candle.jpg "candle")  
+ 
+If you really want to live a healthy life, then you should cook your own food, then you know whats inside.  
+And if you ran out of gas like me, use candles ;-)  
+ 
+To be honest, my kitchen doesn't look very healthy, but believe me, I am fine.    
 
 ## Ultimate goal
 ### Travelling and living without anything

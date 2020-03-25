@@ -101,7 +101,7 @@ Why do they kill inventors like Tesla?
 You just have to follow the track of the money!
 
 ## Solutions
-
+![freedom](../images/freedom.png "freedom")
 I see some solutions to step out and how to ignore the system. It it easy if you know how to, but it might be a challenge for some people.  
 
 The easy way is to not give any might to the governments and the big companies. If we don't give them their might, then they are powerless. I mean paying taxes. If we would stop paying taxes the politician will look for another job. I do not mean to just stop to pay, I mean, do not work that much any more and you will earn less and then you do not have to pay much taxes.

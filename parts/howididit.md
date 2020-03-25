@@ -12,6 +12,8 @@ Luckily I was not poor and was able to buy myself a mobile home. In this mobile 
 
 This is the very first month I am living without income. To be honest this is my 4th book and I get a little money from selling at least one of these books. It's just 30-50,- € a month, but it helps to survive.  
 
+![busking](../images/busking.jpg "busking")  
+
 The rest of the money I am getting from playing guitar and djembe in the streets.  
 Living in a van I do not pay anything else. No house, no electricity, no other bills. 
 Just food, which I sometimes find in the trash, and gas for the van to travel.  

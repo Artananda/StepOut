@@ -1,4 +1,4 @@
-# Help
+# Help appreciated
 
 - I am writing open source software which everybody can use for free.  
 - I am writing books everybody can download for free as PDF.  
@@ -11,9 +11,12 @@ You can help in many ways. You can find my videos on Youtube here
 [https://www.youtube.com/user/RIAMSSoftware](https://www.youtube.com/user/RIAMSSoftware)   
 and if you like them, then please **like** them and abo my channel:
 
-You can find my software here  
+You can find the source code of my software here  
 [https://github.com/Artanidos](https://github.com/Artanidos)   
-and you might use it and want me to improve it. Just text me and I will see what I can do.
+and you might use it and want me to improve it. Just text me and I will see what I can do.  
+
+You can also find my products here at CrowdWare:
+[https://crowdware.github.io/web](https://crowdware.github.io/web)
 
 You can find my books here  
 [https://artananda.github.io/web/book.html](https://artananda.github.io/web/book.html)  
