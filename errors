@@ -1,0 +1,11 @@
+ERROR 	EPUB/parts/stepout.xhtml 	19 	31 	Referenced resource 'EPUB/parts/creativecommons.org' could not be found in the EPUB.
+ERROR 	EPUB/parts/stepout.xhtml 	23 	49 	Referenced resource 'EPUB/parts/facebook.com/artanidos' could not be found in the EPUB.
+ERROR 	EPUB/parts/how-i-did-it.xhtml 	25 	69 	Non-standard image resource of type image/jpg found.
+ERROR 	EPUB/parts/options.xhtml 	21 	60 	Non-standard image resource of type image/jpg found.
+ERROR 	EPUB/parts/options.xhtml 	105 	63 	Non-standard image resource of type image/jpg found.
+ERROR 	EPUB/parts/options.xhtml 	160 	63 	Non-standard image resource of type image/jpg found.
+ERROR 	EPUB/parts/options.xhtml 	203 	54 	Non-standard image resource of type image/jpg found.
+ERROR 	EPUB/parts/options.xhtml 	228 	64 	Referenced resource 'EPUB/parts/kdp.amazon.com' could not be found in the EPUB.
+ERROR 	EPUB/parts/options.xhtml 	299 	66 	Non-standard image resource of type image/jpg found.
+ERROR 	EPUB/parts/options.xhtml 	329 	66 	Non-standard image resource of type image/jpg found.
+ERROR 	EPUB/parts/author.xhtml 	12 	49 	Non-standard image resource of type image/jpg found.

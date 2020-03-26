@@ -6,9 +6,7 @@ If you partner or friend does not like how your are living, then maybe it's not 
 
 ## Living
 
-### Community
-![dome](../images/dome.jpg "dome")  
-
+### Community  
 Living together in a community has many challenges. I think there are as many stories as there are communities and people living there.  
 If you want to live in a community you might have to make compromises. I know that I wrote about not to make them, but...
 ...if you are able to find consensus with all people in the community, then it's not really a compromise...it's consensus then. You do agree to do it.  
@@ -49,7 +47,7 @@ In the above case the consensus is to smoke in the teepee but not while there is
 To have a more detailed version just search the web for *systemic consensus*.
 
 ### Van Life
-![beach](../images/beach.jpg "beach")  
+![beach](../images/beach.png "beach")  
 
 This is what I am doing right now. I am living in my van now since 4.5 years. Often I am just camping in the middle of a town. You are able to drive everywhere. You may camp on every camping slot and of course, this is what I do, camp wild. The last option is illegal in most countries, but nowadays the police know about the situations of these people who do not work and have no money. They normally just tell them to leave. In my case I was asked once in three years to leave in Berlin. The police officer was there with a woman and maybe he just wanted to show her, how a good officer he is. Because I wanted to go to Denmark anyway I said, "ok", to avoid an argument.  
 Here in Portugal I had once police contact, because we were parking next to a museum, because they had free wifi, and somebody was calling the police and told them that our dogs are running around and shitting in the land of the museum and that we were taking the water from the museum.  
@@ -99,7 +97,7 @@ You find squats to live in, in almost every larger town. Just ask some hippies o
 In Barcelona there is a nive squat where some artists are living. You can see a lot of paintings on the walls inside.  
 A friend of mine was there for a few days.  
   
-![camp2](../images/camp2.jpg "camp2")  
+![camp2](../images/camp2.png "camp2")  
 
 A friend told me about a squat in Lisbon, but he told me to avoid it, because it's really dirty there. As I said, it depends on the people living there.  
 
@@ -135,7 +133,7 @@ Selling paintings is a time consuming job, but you are able to get to know some 
 In n I have seen some people from Bulgaria who helped people to find a parking lot. Some people are happy and give coins. You can also offer to clean their cars while they are going shopping or doing what ever they are doing.  
 One of these guys ask me to remove a graffiti on my van. He had a strong liquid like turpentine or so. He erased all the graffiti on the front of my car. He was not asking for money, but I gave him the rest of the whiskey from the night before.  
 So now I was able to create a new painting.  
-![van](../images/van.jpg "van")  
+![van](../images/van.png "van")  
   
 ### Dog or cat sitting
 There a many people having animals which have to stay alone at home. Print some flyers where you offer your help and spread them at a supermarket. The people will be very happy to have someone looking after their dogs and cats.  
@@ -156,7 +154,7 @@ from Olaf Japp
 For writing a book I have created my own software the EbookCreator. The EbookCreator is open source and you are able to use it for free. It's running on Windows, Mac and of course Linux.  
 Yes there are many other tools on the market to archive this. But I had a special need in colororing the syntax of the source code I was writing about. And I wanted to use Markdown to write books. Maybe you know Markdown from github already.    
 
-You can self-publish your books on [kdp.amazon.com](kdp.amazon.com) (Kindle direct publishing).   
+You can self-publish your books on [https://kdp.amazon.com](https://kdp.amazon.com) (Kindle direct publishing).   
 With EbookCreator you can create epub3 books, which Amazon should accept. There is also a good way to publish ebooks in German language with Tolino Media. They want PDF instead. At the moment I am working on a solution to create PDF with my EbookCreator.  
 I am using a 15 year old Mac with InDesign installed to create PDF versions of my books at the moment.  
 
@@ -220,7 +218,7 @@ This day I have invented **White Coffee**. To be honest, the name comes from a g
 Now that another friend sent me the message, that we should drink hot water on a regular base to brink down the corona virus into the stomach to kill it, I am drinking White Coffee on a regular base, instead of expensive coffee.  
 
 ### Saving Coffee
-![coffee](../images/coffee.jpg "coffee")  
+![coffee](../images/coffee.png "coffee")  
 
 To get some coffee beans I ask at a cafe or a gas station, if they have got a hand full off coffee beans for me. And I get it almost every time. For free of course.
 
@@ -245,12 +243,8 @@ If you see an abondonend shop, ask the owner if you may use the shop to make a w
 Look for restaurants without tourism. The restaurant next to the beach are sooo expensive compared to these restaurant which are for the local people. Ask a local for these restaurants and maybe you might also get an invitation for a dinner. All people on this planet are nice and want to help. You only know about bad people from these movies. And of course there are bad guys who try to copy these bad guys from the movies, but deep in their hearts they are nice, like you are.  
 
 ### Cook your own food
-![candle](../images/candle.jpg "candle")  
- 
 If you really want to live a healthy life, then you should cook your own food, then you know whats inside.  
 And if you ran out of gas like me, use candles ;-)  
- 
-To be honest, my kitchen doesn't look very healthy, but believe me, I am fine.    
 
 ## Ultimate goal
 ### Travelling and living without anything

@@ -1,5 +1,5 @@
 # About the Author  
-![art](../images/art_346.jpg)  
+![art](../images/art.png)  
 
 Olaf Art Ananda was born on the 20th of November in 1963. His star-sign is the scorpion and he was born in Hamburg (Germany).  
 After mastering secondary school he completed an apprenticeship as a machinist. Because this work does not fulfil him, he decided to learn software development and later he studied graphics design and human computer interaction design.  

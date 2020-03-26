@@ -50,7 +50,6 @@ There is for example the insurances. They telling you that you might have an acc
 What I want to say is...if you fear something, your are manifesting it. It will come to your life. This is the law of attraction. If you want something very bad or you fear something, you have got a focus on that. And when you have got a focus on something, then it will come to your life.  
 
 ## System  
-
 What is the so called system you may ask?
 The system is called capitalism or communism. Everybody in the system has to work to make money. Money we need to pay the rent for our house or flat and we need money to buy food etc.
 In countries where the children are not able to go to school and to go to university they have to work. I am talking about hard work. I am talking about children at the age of 8 years or even younger that are working for these companies that are abusing these little beings with very low salaries.  
