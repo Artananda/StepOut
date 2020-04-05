@@ -1,16 +1,17 @@
 # How to **Step Out**
+![exit](../images/exit.png "exit")  
 
 A guideline how you can step out of this system.
 This guideline is based on my own experience and will be enriched with true stories from people I met on my way or people who wrote me believable stories.
 
 ## Why
 Why do we step out at all?
-You know...it began with these kings crusaders. They owned the land and make everybody else their slaves. It did not really looked like slavery, but who gave the land to the kings? Why should everybody else give a cent to the kings?  
+You know...it began with these kings and crusaders. They owned the land and make everybody else their slaves. It did not really looked like slavery, but who gave the land to the kings? Why should everybody else give a cent to the kings?  
 They have stolen the land and have protected what they steel with their army.  
 Maybe you might think now, "but the land belong to their parent and the get it from the parents". Yes that's right, but where did the parents get it from?  
 If there is property, somebody has stolen it from us, from the mankind.  
 You can see it in America and in the so called western. These people has stolen the land from the indigenous people who lived there before. Even the indigenous people did not own the land, they just used it. Which is the normal way, but after inventing agriculture we start to create properties. We don't wanted to let other people eat our fruits, because we have invested time to grow them. So we build fences around the land and declare it as our land now. This is also the time where humans become slaves and this is also true for the women who lived with one of these farmers. The farmer wanted to be sure that when he feeds the children of his wife, that he only feeds his own children and not the children of someone else. So we invented monogamy.  
-If you have ever lived long enough together with only one partner, then you might know that she tries to control you with her sexuality.  
+If you have ever lived long enough together with only one partner, then you might know that on partner tries to control the other with sexuality or money.  
 And also the workers for the farmers where paid and could live at the farmers houses, but they where not free. If they quit their job, they also loose their homes.  
 This was the beginning of the slavery which we can see also today, even if it's more hidden.  
 You might feel this.  
@@ -23,7 +24,23 @@ Why do you still work 40 hours a week? What is you goal to achieve and why are y
 
 I will tell you. They tell you that you should have a big house, a big car and fine clothes and so on and so forth. They are keeping you in fear. They tell you, that if you are quitting your job, you will loose all of this and will become a beggar.  
 In fact you have a house which is empty the whole day, because you are working. You have got a car to drive to your job and you are wearing these fine clothes so that the people accept you doing your job.  
-You don't need this at all.
+
+At the moment there is a virus going around the world.  
+What if, the virus was man made?  
+What if, they say that the corona virus, which is there for many years already, is more deadly then the ones before?
+What if, they want to spread the virus just to sell vaccinations?
+What if, they inject us with nano computers instead of vaccinations?
+What if, they can control these nano computers to control them via 5G technology?
+What if, they switch of 4G, so that we are forced to use 5G?
+What if, they just use nanocomputers to get to know, where we are and where we go, and what we eat, and what we consume, to be able to control us even better?  
+
+Something similar is already happening. 
+In Denmark they have changed the law a few days ago, that the police is able to force people to make a test and vaccine them. I am not going there anymore at all. 
+In Sweden they advertise that, if you are chipped, then you do not need cash anymore. And when nobody is using cash, then the people use credit cards, and that means, everywhere they pay, this is tracked in a database.  
+I am not going there either. How can I make money with street music then?  
+
+We don't need this control at all.
+And therefore, we need to change it NOW.
 
 ## Fears
 The main reason why so many people are still in the system is fear. The people, and maybe it's also true for you, are scared to quit what they are doing, because the system is scaring them.  
@@ -51,7 +68,7 @@ What I want to say is...if you fear something, your are manifesting it. It will 
 
 ## System  
 What is the so called system you may ask?
-The system is called capitalism or communism. Everybody in the system has to work to make money. Money we need to pay the rent for our house or flat and we need money to buy food etc.
+The system is called capitalism or communism. Everybody, eccept these so called Elite, in the system has to work to make money. Money we need to pay the rent for our house or flat and we need money to buy food etc.
 In countries where the children are not able to go to school and to go to university they have to work. I am talking about hard work. I am talking about children at the age of 8 years or even younger that are working for these companies that are abusing these little beings with very low salaries.  
 
 If your parents where not able to pay for your school and your university you have no good chances to get a good, well payed job at all. You are to stay poor for the rest of your life.
@@ -82,7 +99,6 @@ Yeah, it's the debts of the governments. They for example were building these re
 The governments are also imprison us at home, because of this corona virus. There are many scientist already saying that this virus exists since a few years, and that you will find it in most of us, but it is not breaking out. Only very young and very old people are dying from this. But the truth is, they will die anyways because of other diseases. So they might use this pandemy to vaccinate all of us based on a new law. In Denmark they already have created this law. 
 And who is the winner? 
 Big pharma.
-Also it could be possible that they use this pandemy to forbid cash money. And then, they are able to control us. They know where we are, even if we do not use smartphoes any more, and they know, what we are buying, in which bordell we are going, how much alcohol we drink and so on and so forth.
 
 These are only a few examples...there is more wrong with these governments, and we have to stop them NOW!
 
@@ -94,7 +110,7 @@ We have to get rid of these so called elite who are controlling our governments.
 
 Do you know that most of our laws are just there to make these people more rich?  
 
-Why is it forbidden to collect rain water in the USA? Why do you have to pay electricity in Spain even if you produce it on your own with solar panels? Why does Madrid not accept, that Catalunia will be separarted from Spain? 
+Why is it forbidden to collect rain water in the USA? Why do you have to pay electricity in Spain even if you produce it on your own with solar panels? Why does Madrid not accept, that Catalunia will be separated from Spain? 
 Why do they kill inventors like Tesla?
 
 You just have to follow the track of the money!
@@ -103,9 +119,10 @@ You just have to follow the track of the money!
 ![freedom](../images/freedom.png "freedom")
 I see some solutions to step out and how to ignore the system. It it easy if you know how to, but it might be a challenge for some people.  
 
-The easy way is to not give any might to the governments and the big companies. If we don't give them their might, then they are powerless. I mean paying taxes. If we would stop paying taxes the politician will look for another job. I do not mean to just stop to pay, I mean, do not work that much any more and you will earn less and then you do not have to pay much taxes.
+The easy way is to **not** give any might to the governments and the big companies. If we don't give them their might, then they are powerless. I mean paying taxes. If we would stop paying taxes the politician will look for another job. I do not mean to just stop to pay, I mean, do not work that much any more and you will earn less and then you do not have to pay much taxes.
 If we don't take out credits any more, then the banksters will get bankrupt. The word bankrupt comes from bank and disruption.  
-If we do not use their money any more they will loose their power. If we do not buy their products then the companies will also get bankrupt.
+If we do not use their money any more they will loose their power. If we do not buy their products then the companies will also get bankrupt.  
+We we withdraw all our money, they don't have money left to lent. Of course this is not really the full truth, because they area able to create money out of thin air. It's just two bookings in the computer. One on active and one on passive.
 
 So we don't have to fight against the system. We just not feed it any more!  
 
@@ -116,7 +133,7 @@ To be honest this is hard, because we have to rethink how to live, where to live
 This book will give you some hints.  
 
 You don't have to live that extreme like me.  
-I was once working for the banksters in Zürich getting a 5 digit amount each month and now, after two burnouts I am living without any income from busking in the streets and food saving.   And no, I don't have savings to live from.  
+I was once working for the banksters in Zürich getting a 5 digit amount each month and now, after two burnouts I am living without any income from busking in the streets and food saving. And no, I don't have savings to live from.  
 But I am free.  
 I am waking up without the need of an alarm clock.  
 They birds are waking me up, or at the very moment the waves are waking me up, when they break at the shore. I am in Nazare, Portugal, right now. Here you can see the biggest waves in the whole world. 20 meters and higher.   

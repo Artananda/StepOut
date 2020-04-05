@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid">
+   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <dc:identifier id="uid">9de31b66-1e61-416c-8fc3-24166c00e5aa</dc:identifier>
+      <dc:title>StepOut</dc:title>
+      <dc:creator>Olaf Art Ananda</dc:creator>
+      <dc:language>en</dc:language>
+      <meta property="dcterms:modified">2020-03-28T16:55:36Z</meta>
+   </metadata>
+   <manifest>
+      <item href="parts/toc.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+      <item href="parts/stepout.xhtml" id="stepout" media-type="application/xhtml+xml"/>
+      <item href="parts/foreword.xhtml" id="foreword" media-type="application/xhtml+xml"/>
+      <item href="parts/out.xhtml" id="out" media-type="application/xhtml+xml"/>
+      <item href="parts/how-i-did-it.xhtml" id="how-i-did-it" media-type="application/xhtml+xml"/>
+      <item href="parts/options.xhtml" id="options" media-type="application/xhtml+xml"/>
+      <item href="parts/ubuntu.xhtml" id="ubuntu" media-type="application/xhtml+xml"/>
+      <item href="parts/fear.xhtml" id="fear" media-type="application/xhtml+xml"/>
+      <item href="parts/health.xhtml" id="health" media-type="application/xhtml+xml"/>
+      <item href="parts/help.xhtml" id="help" media-type="application/xhtml+xml"/>
+      <item href="parts/author.xhtml" id="author" media-type="application/xhtml+xml"/>
+      <item href="images/camp2.png" id="camp2" media-type="image/png"/>
+      <item href="images/yoga.png" id="yoga" media-type="image/png"/>
+      <item href="images/food.png" id="food" media-type="image/png"/>
+      <item href="images/busking.png" id="busking" media-type="image/png"/>
+      <item href="images/journey.png" id="journey" media-type="image/png"/>
+      <item href="images/hands.png" id="hands" media-type="image/png"/>
+      <item href="images/coffee.png" id="coffee" media-type="image/png"/>
+      <item href="images/exit.png" id="exit" media-type="image/png"/>
+      <item href="images/StepOut.png" id="StepOut" media-type="image/png"/>
+      <item href="images/freedom.png" id="freedom" media-type="image/png"/>
+      <item href="images/fear.png" id="fear" media-type="image/png"/>
+      <item href="images/art.png" id="art" media-type="image/png"/>
+      <item href="images/beach.png" id="beach" media-type="image/png"/>
+      <item href="images/van.png" id="van" media-type="image/png"/>
+      <item href="images/ubuntu.png" id="ubuntu" media-type="image/png"/>
+      <item href="images/candle.jpg" id="candle" media-type="image/jpg"/>
+      <item href="images/animador.png" id="animador" media-type="image/png"/>
+      <item href="css/pastie.css" media-type="text/css" id="hilite"/>
+      <item href="css/stylesheet.css" media-type="text/css" id="css"/>
+   </manifest>
+   <spine>
+      <itemref idref="nav"/>
+      <itemref idref="stepout"/>
+      <itemref idref="foreword"/>
+      <itemref idref="out"/>
+      <itemref idref="how-i-did-it"/>
+      <itemref idref="options"/>
+      <itemref idref="ubuntu"/>
+      <itemref idref="fear"/>
+      <itemref idref="health"/>
+      <itemref idref="help"/>
+      <itemref idref="author"/>
+   </spine>
+</package>

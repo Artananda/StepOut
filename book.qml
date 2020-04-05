@@ -31,6 +31,10 @@ Ebook {
         name: "Options"
     }
     Part {
+        src: "ubuntu.md"
+        name: "Ubuntu"
+    }
+    Part {
         src: "fear.md"
         name: "Fear"
     }

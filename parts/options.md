@@ -1,4 +1,6 @@
 # Some Options to Live a Good Life  
+![hands](../images/hands.png "hands")   
+
 I am not able to tell you how to live a good life. This depends on your wishes and circumstances, but I might show you some options how you can create a nice living out of the system.  
 
 There is one thing you should keep in mind. Your life should fulfil you. Only you. Don't do anything you don't want at all. Don't make compromises to make someone else happy. Not even your sexual partner or your best friend.  
@@ -6,7 +8,7 @@ If you partner or friend does not like how your are living, then maybe it's not 
 
 ## Living
 
-### Community  
+### Community 
 Living together in a community has many challenges. I think there are as many stories as there are communities and people living there.  
 If you want to live in a community you might have to make compromises. I know that I wrote about not to make them, but...
 ...if you are able to find consensus with all people in the community, then it's not really a compromise...it's consensus then. You do agree to do it.  
@@ -63,15 +65,15 @@ To wash myself I am using the opportunities to shower at friends houses, I just 
 I also find out that I only need 3-5 cups of water to wash the important parts of my body.  
 Also I am most often do not use toilet paper. I use water or leaves instead and then I clean my hands with vinegar or ashes from a camp fire.
 
-I have got a bicycle to go everywhere. That makes it easier to find a spot outside of the city. You are able to find spots next to schools or other public places. They are abondonend at the night and you just also stay there during the day.  
+I have got a bicycle to go everywhere. That makes it easier to find a spot outside of the city. You are able to find spots next to schools or other public places. They are abandonend at the night and you just also stay there during the day.  
 I burned all bridges before, so I do not have to pay for a house or a flat. My van is registered in Germany at my moms house. You can also ask friends to register at there address.  
 
-I have got two solar panels with 200 watts and with them I can fill my mobile phone and with a converter I also have 220 Volts. I am able to fill my computer when it's not running, but I also have a very old Mac book G4 which is not loading, the converter switches of. In this case I often go to libraries to get electricity and also free wifi. Here in one town I also get electricity at the market place where they have got sockets below the banks. In Lissabon, the library was closed because of this pandemy, I was in a cafe behind the lib and they gave me a long cable for my computer, some water for my dog and I only had a coffee for 70 cents. It was a non profit cafe, fighgting for human rights. We are helping each other <3
+I have got two solar panels with 200 watts and with them I can fill my mobile phone and with a converter I also have 220 Volts. I am able to fill my computer when it's not running, but I also have a very old Mac book G4 which is not loading, the converter switches of. In this case I often go to libraries to get electricity and also free wifi. Here in one town I also get electricity at the market place where they have got sockets below the banks. In Lissabon, the library was closed because of this pandemy, I was in a cafe behind the lib and they gave me a long cable for my computer, some water for my dog and I only had a coffee for 70 cents. It was a non profit cafe, fighting for human rights. We are helping each other <3
 
 ### Living on a sailing yacht
 One morning, I was camping in Bern (Switzerland) next to an old gas tank, which is now a place for GOA-Parties and other things, a woman knocked at my van. She ask me if I could help starting their car.  
 
-These nice couple where in Bern to make some money during the winter. Yes Switzerland is a nice place to make a bunch of money, because they pay the higghest salaries in Europe and you only have to pay about 10 percent so called *Quellsteuer* which is a kind of income tax.  
+These nice couple where in Bern to make some money during the winter. Yes Switzerland is a nice place to make a bunch of money, because they pay the highest salaries in Europe and you only have to pay about 10 percent so called *Quellsteuer* which is a kind of income tax.  
 
 They where living on a sailing yacht during the year. They bought the yacht right after she has finished her school in Germany. We were talking about the yacht, because I was interested to buy it.  
 They told me that they were sailing around Mallorca and they live from food saving. The hotel there were throwing away much useful food. Sailing would be also nice for me. This way I do not waste much gas, only if I have to drive into a harbour, where sailing is not possible.
@@ -102,7 +104,7 @@ A friend of mine was there for a few days.
 A friend told me about a squat in Lisbon, but he told me to avoid it, because it's really dirty there. As I said, it depends on the people living there.  
 
 ### Grow your own food
-One possibility to step out completly is do buy land, build a shelter and grow food like permaculture.   
+One possibility to step out completely is do buy land, build a shelter and grow food like permaculture.   
 About this topic I wrote an own book called "Camp Eden, how we re-created our paradise"
 
 ## Making money
@@ -152,7 +154,7 @@ This is also something I am doing on a regular base. Once I wrote a bestseller,
 from Olaf Japp  
 ,which brings me 30-40,- € each month.  
 For writing a book I have created my own software the EbookCreator. The EbookCreator is open source and you are able to use it for free. It's running on Windows, Mac and of course Linux.  
-Yes there are many other tools on the market to archive this. But I had a special need in colororing the syntax of the source code I was writing about. And I wanted to use Markdown to write books. Maybe you know Markdown from github already.    
+Yes there are many other tools on the market to archive this. But I had a special need in colorring the syntax of the source code I was writing about. And I wanted to use Markdown to write books. Maybe you know Markdown from github already.    
 
 You can self-publish your books on [https://kdp.amazon.com](https://kdp.amazon.com) (Kindle direct publishing).   
 With EbookCreator you can create epub3 books, which Amazon should accept. There is also a good way to publish ebooks in German language with Tolino Media. They want PDF instead. At the moment I am working on a solution to create PDF with my EbookCreator.  
@@ -237,7 +239,7 @@ When I grow up we are also giving our shoes to someone who repaired them for us.
 
 ### Room Saving
 This is just a theory now, but we should try to manifest it.  
-If you see an abondonend shop, ask the owner if you may use the shop to make a workshop for example. You make a workshop based on donations and share the money with the owner. For them it's additional money and for you it's a free space. The owner will also profit from the fact that you clean the rooms.  
+If you see an abandonend shop, ask the owner if you may use the shop to make a workshop for example. You make a workshop based on donations and share the money with the owner. For them it's additional money and for you it's a free space. The owner will also profit from the fact that you clean the rooms.  
 
 ### Finding cheap spots to eat
 Look for restaurants without tourism. The restaurant next to the beach are sooo expensive compared to these restaurant which are for the local people. Ask a local for these restaurants and maybe you might also get an invitation for a dinner. All people on this planet are nice and want to help. You only know about bad people from these movies. And of course there are bad guys who try to copy these bad guys from the movies, but deep in their hearts they are nice, like you are.  

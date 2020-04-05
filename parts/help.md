@@ -33,4 +33,6 @@ IBAN: BE14 9740 5329 8883
 BIC: PESOBEB1
 
 If you have questions do not hesitate to contact me at [artanidos@gmail.com](mailto:artanidos@gmail.com).  
-I will be happy to help you.
+I will be happy to help you.  
+And I will also appreciate some feedback from you.  
+Sometime a "thank you" or "awesome work" is more worth than money.
